@@ -1,0 +1,15 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="Log_and_exp.log_inverse.sage" />
+          <option value="Log_and_exp.log_inverse.range" />
+          <option value="Log_and_exp.log_inverse.int" />
+          <option value="Log_and_exp.log_inverse.log" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
